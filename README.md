@@ -1,1 +1,1 @@
-A web application used to transfer money between two users
+#Basic bank system
